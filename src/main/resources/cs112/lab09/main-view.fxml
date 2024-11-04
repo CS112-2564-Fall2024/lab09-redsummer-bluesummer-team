@@ -52,8 +52,8 @@
       </Pane>
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
-            <Button contentDisplay="CENTER" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="100.0" prefWidth="301.0" text="Start" />
-            <Button mnemonicParsing="false" onAction="#handleQuitButto" prefHeight="100.0" prefWidth="295.0" text="Quit" />
+            <Button contentDisplay="CENTER" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="35.0" prefWidth="83.0" text="Start" />
+            <Button alignment="CENTER" contentDisplay="RIGHT" mnemonicParsing="false" onAction="#handleQuitButto" prefHeight="34.0" prefWidth="79.0" text="Quit" />
          </children>
       </HBox>
    </children>
